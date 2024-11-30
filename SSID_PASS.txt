@@ -1,2 +1,2 @@
-SSID : dlink_DWR-920_A535
-PASS : zbSUM36557
+SSID : Prawet
+PASS : abcdefabcd
